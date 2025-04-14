@@ -1,0 +1,11 @@
+node_modules/
+dist/
+yarn.lock
+.env
+.vs/
+.idea/
+test/
+.DS_Store
+.sentryclirc
+.env.*
+scripts/sql/
